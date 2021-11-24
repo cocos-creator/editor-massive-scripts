@@ -1,0 +1,7 @@
+import '../../../framework/misc/Annotations'
+import '../../../framework/uiFramework/BaseGenUI'
+import '../../mgrs/LogicMgr'
+import '../../logic/AllianceWarLogic'
+import '../../../framework/cfg/CfgMgr'
+import '../OtherPlayerSkillPage'
+import '../../../framework/cfg/ClientConfigEnum'

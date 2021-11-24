@@ -1,0 +1,5 @@
+import './gensctips/MultiEliteCreateTeamPageGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../mgrs/LangMgr'
+import '../basic/Common'

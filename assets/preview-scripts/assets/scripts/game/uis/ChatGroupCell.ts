@@ -1,0 +1,7 @@
+import '../../framework/misc/Annotations'
+import '../basic/Common'
+import '../../framework/ui/BaseCell'
+import '../mgrs/LogicMgr'
+import '../logic/Chat/ChatLogic'
+import '../protos/proto-bundles'
+import './gensctips/ChatGroupCellGenCell'

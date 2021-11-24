@@ -1,0 +1,7 @@
+import '../../framework/ui/BaseCell'
+import '../../framework/misc/Annotations'
+import '../mgrs/LogicMgr'
+import './gensctips/EquipSuitItemGenCell'
+import '../logic/EquipLogic'
+import '../basic/GameConst'
+import './EquipmentInfoPopUpSuit'

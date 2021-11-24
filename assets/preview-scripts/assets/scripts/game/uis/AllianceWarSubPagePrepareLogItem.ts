@@ -1,0 +1,6 @@
+import '../../framework/ui/BaseCell'
+import '../../framework/misc/Annotations'
+import './gensctips/AllianceWarSubPagePrepareLogItemGenCell'
+import '../basic/GameConst'
+import '../basic/Common'
+import '../mgrs/LangMgr'

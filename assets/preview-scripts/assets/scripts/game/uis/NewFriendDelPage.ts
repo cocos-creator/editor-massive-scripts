@@ -1,0 +1,8 @@
+import './gensctips/NewFriendDelPageGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../protos/proto-bundles'
+import '../basic/Common'
+import '../logic/Friend/NewFriendLogic'
+import '../mgrs/LogicMgr'
+import '../logic/HeadIconLogic'

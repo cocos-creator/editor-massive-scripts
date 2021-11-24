@@ -1,0 +1,8 @@
+import '../../framework/event/EventMgr'
+import '../../framework/resource-manager/ResourceManager'
+import '../../framework/uiFramework/UIDef'
+import '../../framework/uiFramework/UIMgr'
+import '../../framework/utility/Utility'
+import '../basic/Common'
+import '../basic/Events'
+import '../uis/MercenaryTouchVoiceTipsPopUp'

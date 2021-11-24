@@ -1,0 +1,8 @@
+import './gensctips/EquipmentInfoPopUpSuitGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../logic/Equipment/EquipAttrDetailDefines'
+import '../logic/EquipLogic'
+import '../mgrs/LogicMgr'
+import '../basic/GameConst'
+import '../logic/Equipment/EquipUIBasicDetailSuit'

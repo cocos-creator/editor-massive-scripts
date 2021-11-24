@@ -1,0 +1,8 @@
+import './gensctips/MessageFlowPopPageGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../../framework/ui/UIBindingComponent'
+import './gensctips/TextPrompt'
+import './gensctips/StatusUpFramePage'
+import './gensctips/TextPromptStatus'
+import '../audio/AtomManger'

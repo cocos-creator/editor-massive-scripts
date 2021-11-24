@@ -1,0 +1,5 @@
+import './gensctips/PVPWinPageGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../mgrs/LogicMgr'
+import '../logic/ArenaLogic'

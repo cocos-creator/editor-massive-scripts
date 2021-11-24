@@ -1,0 +1,7 @@
+import '../../../framework/misc/Annotations'
+import '../../mgrs/LogicMgr'
+import '../../../framework/uiFramework/BaseGenUI'
+import '../../mgrs/LangMgr'
+import '../TaskRewardPreviewPopUp'
+import '../../../framework/uiFramework/UIMgr'
+import '../../logic/AllianceWarLogic'

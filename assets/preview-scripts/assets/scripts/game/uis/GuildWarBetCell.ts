@@ -1,0 +1,6 @@
+import '../../framework/ui/BaseCell'
+import '../../framework/misc/Annotations'
+import './gensctips/GuildWarBetCellGenCell'
+import '../basic/GameConst'
+import '../mgrs/LangMgr'
+import '../basic/Common'

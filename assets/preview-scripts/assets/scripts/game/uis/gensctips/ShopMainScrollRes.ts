@@ -1,0 +1,6 @@
+import '../../../framework/misc/Annotations'
+import '../../basic/Common'
+import '../../../framework/uiFramework/BaseGenUI'
+import '../../basic/GameUtil'
+import '../../protos/proto-bundles'
+import '../../basic/GameConst'

@@ -1,0 +1,6 @@
+import '../../framework/ui/BaseCell'
+import '../../framework/misc/Annotations'
+import './gensctips/OfflineEquipItemGenCell'
+import '../basic/GameConst'
+import '../mgrs/LogicMgr'
+import '../logic/EquipLogic'

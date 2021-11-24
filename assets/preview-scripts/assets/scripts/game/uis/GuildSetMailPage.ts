@@ -1,0 +1,7 @@
+import './gensctips/GuildSetMailPageGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../mgrs/LogicMgr'
+import '../logic/GuildLogic'
+import '../mgrs/LangMgr'
+import '../basic/Common'

@@ -1,0 +1,7 @@
+import '../../../framework/misc/Annotations'
+import '../../../framework/uiFramework/BaseGenUI'
+import '../../logic/Formation/FormationLogic'
+import '../../mgrs/LogicMgr'
+import '../../mgrs/LangMgr'
+import '../../basic/Common'
+import '../GeneralChangeNamePopUp'

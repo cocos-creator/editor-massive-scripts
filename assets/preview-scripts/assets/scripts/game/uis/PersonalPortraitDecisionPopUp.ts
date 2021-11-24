@@ -1,0 +1,7 @@
+import './gensctips/PersonalPortraitDecisionPopUpGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../mgrs/LogicMgr'
+import '../logic/HeadIconLogic'
+import '../logic/RoleLogic'
+import '../mgrs/LangMgr'

@@ -1,0 +1,6 @@
+import './gensctips/ChatEmojiPanelGenUI'
+import '../../framework/uiFramework/BaseUI'
+import './ChatEmojiBigCell'
+import './ChatEmojiSmallCell'
+import '../const/ChatConst'
+import '../../framework/misc/Annotations'

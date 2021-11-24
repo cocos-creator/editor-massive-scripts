@@ -1,0 +1,8 @@
+import '../../framework/ui/BaseCell'
+import '../../framework/misc/Annotations'
+import './gensctips/AllianceWarSubPageScheduleGroupLeftGenCell'
+import '../../framework/ui/UIBindingComponent'
+import './gensctips/AllianceWarSubPageSchedule'
+import '../mgrs/LogicMgr'
+import '../logic/AllianceWarLogic'
+import '../protos/proto-bundles'

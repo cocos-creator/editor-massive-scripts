@@ -1,0 +1,8 @@
+import '../../framework/cfg/CfgMgr'
+import '../../framework/cfg/ClientConfigEnum'
+import '../../framework/event/EventMgr'
+import '../../framework/misc/Annotations'
+import '../basic/BaseLogic'
+import '../basic/Events'
+import '../mgrs/LogicMgr'
+import './ItemLogic'

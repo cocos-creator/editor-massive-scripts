@@ -1,0 +1,8 @@
+import '../../../framework/uiFramework/BaseGenUI'
+import '../../../framework/misc/Annotations'
+import '../../mgrs/LogicMgr'
+import '../../logic/ShopLogic'
+import '../../../framework/cfg/CfgMgr'
+import '../../../framework/event/EventMgr'
+import '../../basic/Events'
+import '../../../framework/cfg/ClientConfigEnum'

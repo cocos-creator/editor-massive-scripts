@@ -1,0 +1,6 @@
+import '../../basic/GameConst'
+import '../../mgrs/LangMgr'
+import '../../mgrs/LogicMgr'
+import '../../basic/Common'
+import '../EquipLogic'
+import '../RoleLogic'

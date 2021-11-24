@@ -1,0 +1,7 @@
+import '../../framework/misc/Annotations'
+import '../../framework/uiFramework/BaseUI'
+import '../mgrs/LogicMgr'
+import '../mgrs/LangMgr'
+import '../basic/Common'
+import '../logic/RoleLogic'
+import './gensctips/ChangeNamePopUpGenUI'

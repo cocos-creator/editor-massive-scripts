@@ -1,0 +1,7 @@
+import '../../mgrs/LogicMgr'
+import '../../basic/GameConst'
+import '../../protos/proto-bundles'
+import '../../mgrs/LangMgr'
+import '../PlayerLogic'
+import '../FetterLogic'
+import '../RoleLogic'

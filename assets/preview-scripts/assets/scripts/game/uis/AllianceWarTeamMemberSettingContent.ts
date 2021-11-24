@@ -1,0 +1,7 @@
+import '../../framework/ui/BaseCell'
+import '../../framework/misc/Annotations'
+import './gensctips/AllianceWarTeamMemberSettingContentGenCell'
+import '../../framework/ui/UIBindingComponent'
+import '../basic/GameConst'
+import '../managers/RebirthManager'
+import './gensctips/AllianceWarTeamMemberSettingItem1'

@@ -1,0 +1,5 @@
+import './gensctips/GeneralDecisionDrawCardPopUpGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../protos/proto-bundles'
+import '../basic/Common'

@@ -1,0 +1,7 @@
+import './gensctips/BuildSystemHeadTipsPageGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../mgrs/LogicMgr'
+import '../basic/Events'
+import '../logic/BuildSystemLogic'
+import './BuildChangeNamePage'

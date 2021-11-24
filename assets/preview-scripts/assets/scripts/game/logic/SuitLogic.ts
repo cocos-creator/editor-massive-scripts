@@ -1,0 +1,7 @@
+import '../../framework/cfg/CfgMgr'
+import '../../framework/cfg/ClientConfigEnum'
+import '../../framework/misc/Annotations'
+import '../basic/GameConst'
+import '../basic/BaseLogic'
+import '../mgrs/LogicMgr'
+import './EquipLogic'

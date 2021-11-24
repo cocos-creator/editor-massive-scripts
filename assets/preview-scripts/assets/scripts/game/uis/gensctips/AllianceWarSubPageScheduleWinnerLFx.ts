@@ -1,0 +1,6 @@
+import '../../../framework/uiFramework/BaseGenUI'
+import '../../mgrs/LogicMgr'
+import '../AllianceWarBattleListPopUp'
+import '../../logic/AllianceWarLogic'
+import '../../../framework/misc/Annotations'
+import '../../../framework/uiFramework/UIMgr'

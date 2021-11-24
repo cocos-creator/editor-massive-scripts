@@ -1,0 +1,8 @@
+import '../../framework/ui/BaseCell'
+import '../../framework/misc/Annotations'
+import './gensctips/AllianceWarTeamMemberSettingPoolItemGenCell'
+import '../basic/GameConst'
+import '../basic/Common'
+import '../managers/RebirthManager'
+import '../../framework/event/EventMgr'
+import '../basic/Events'

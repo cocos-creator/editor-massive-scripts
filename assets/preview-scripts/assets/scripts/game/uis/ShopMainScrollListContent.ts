@@ -1,0 +1,5 @@
+import '../../framework/ui/BaseCell'
+import '../../framework/misc/Annotations'
+import './gensctips/ShopMainScrollListContentGenCell'
+import '../../framework/ui/UIBindingComponent'
+import './gensctips/ShopMainScrollContentGenCell'

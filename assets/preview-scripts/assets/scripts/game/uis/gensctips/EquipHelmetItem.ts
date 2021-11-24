@@ -1,0 +1,8 @@
+import '../../../framework/misc/Annotations'
+import '../../basic/GameConst'
+import '../../mgrs/LogicMgr'
+import '../../logic/EquipLogic'
+import '../../logic/ItemLogic'
+import '../../../framework/utility/NodeHelper'
+import '../../../framework/uiFramework/BaseGenUI'
+import '../../protos/proto-bundles'

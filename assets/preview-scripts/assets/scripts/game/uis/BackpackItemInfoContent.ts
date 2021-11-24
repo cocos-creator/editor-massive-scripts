@@ -1,0 +1,7 @@
+import '../../framework/ui/BaseCell'
+import '../../framework/misc/Annotations'
+import './gensctips/BackpackItemInfoContentGenCell'
+import '../mgrs/ResManagerForLua'
+import '../basic/GameConst'
+import '../../framework/utility/NodeHelper'
+import '../basic/GameUtil'

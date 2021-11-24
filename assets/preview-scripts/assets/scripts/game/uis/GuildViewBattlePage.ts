@@ -1,0 +1,8 @@
+import './gensctips/GuildViewBattlePageGenUI'
+import '../../framework/misc/Annotations'
+import '../../framework/ui/UIBindingComponent'
+import '../battle/BattleUICtrl'
+import '../battle/BattleDef'
+import '../../framework/storage/LocalStorageMgr'
+import '../basic/LocalStorageConst'
+import '../basic/Events'

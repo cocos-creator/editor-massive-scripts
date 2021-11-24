@@ -1,0 +1,1 @@
+import '../protos/proto-bundles'

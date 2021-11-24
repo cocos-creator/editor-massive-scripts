@@ -1,0 +1,8 @@
+import '../../../framework/misc/Annotations'
+import '../../../framework/uiFramework/BaseGenUI'
+import '../../../framework/event/EventMgr'
+import '../../../framework/ui/UIBindingComponent'
+import '../../audio/AtomManger'
+import '../../basic/Common'
+import './CommonGachaItem'
+import '../../basic/Events'

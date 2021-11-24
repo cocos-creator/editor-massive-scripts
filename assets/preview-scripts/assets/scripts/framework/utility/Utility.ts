@@ -1,0 +1,5 @@
+import '../../game/mgrs/LangMgr'
+import '../misc/Annotations'
+import '../resource-manager/ResourceManager'
+import '../ui/UIBindingComponent'
+import '../ui/UIBindingInfo'

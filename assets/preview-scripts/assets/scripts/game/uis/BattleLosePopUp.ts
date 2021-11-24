@@ -1,0 +1,8 @@
+import './gensctips/BattleLosePopUpGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../protos/proto-bundles'
+import './BattleLoseContent'
+import '../battle/BattleDef'
+import '../mgrs/LogicMgr'
+import '../logic/MultiEliteLogic'

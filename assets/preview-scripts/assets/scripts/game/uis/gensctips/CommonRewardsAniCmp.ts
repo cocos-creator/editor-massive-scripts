@@ -1,0 +1,7 @@
+import '../../../framework/misc/Annotations'
+import '../../../framework/uiFramework/BaseGenUI'
+import './CommonItemCellGenCell'
+import '../../../framework/ui/UIBindingComponent'
+import '../../../framework/event/EventMgr'
+import '../../basic/Events'
+import '../../audio/AtomManger'

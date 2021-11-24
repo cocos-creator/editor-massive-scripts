@@ -1,0 +1,8 @@
+import './gensctips/NewBieGraphicGuidePopUpGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../../framework/uiFramework/UIMgr'
+import '../logic/HelpLogic'
+import '../../framework/cfg/CfgMgr'
+import '../../framework/cfg/ClientConfigEnum'
+import '../../framework/components/SpriteEx'

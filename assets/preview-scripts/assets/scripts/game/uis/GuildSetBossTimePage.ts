@@ -1,0 +1,8 @@
+import './gensctips/GuildSetBossTimePageGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../mgrs/LogicMgr'
+import '../logic/GuildLogic'
+import '../basic/Common'
+import '../protos/proto-bundles'
+import '../mgrs/PacketMgr'

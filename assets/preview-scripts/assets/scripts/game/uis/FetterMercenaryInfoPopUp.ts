@@ -1,0 +1,5 @@
+import './gensctips/FetterMercenaryInfoPopUpGenUI'
+import '../../framework/misc/Annotations'
+import '../../framework/uiFramework/BaseUI'
+import '../mgrs/LangMgr'
+import '../basic/GameConst'

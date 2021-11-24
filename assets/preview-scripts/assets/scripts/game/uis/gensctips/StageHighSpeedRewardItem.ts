@@ -1,0 +1,7 @@
+import '../../../framework/misc/Annotations'
+import '../../mgrs/ResManagerForLua'
+import '../../basic/GameConst'
+import '../../mgrs/LogicMgr'
+import '../../logic/MapLogic'
+import '../../logic/EquipLogic'
+import '../../../framework/uiFramework/BaseGenUI'

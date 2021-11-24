@@ -1,0 +1,7 @@
+import './gensctips/MarryLoveStageUpPageGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../logic/MarryLogic'
+import '../mgrs/LogicMgr'
+import '../audio/AtomManger'
+import '../basic/CommonLive2dCfg'

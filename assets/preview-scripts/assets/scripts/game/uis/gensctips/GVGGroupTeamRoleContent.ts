@@ -1,0 +1,7 @@
+import '../../../framework/misc/Annotations'
+import '../../../framework/uiFramework/BaseGenUI'
+import '../../basic/GameConst'
+import '../../../framework/cfg/ClientConfigEnum'
+import '../../../framework/cfg/CfgMgr'
+import '../../protos/proto-bundles'
+import '../WorldWarTeamJoinPage'

@@ -1,0 +1,8 @@
+import './gensctips/OtherPlayerSkillPageGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../mgrs/LogicMgr'
+import '../logic/OtherRoleLogic'
+import '../basic/GameConst'
+import '../../framework/cfg/CfgMgr'
+import '../../framework/cfg/ClientConfigEnum'

@@ -1,0 +1,5 @@
+import '../../framework/uiFramework/BaseUI'
+import './gensctips/FateShopEffectUpGenUI'
+import '../basic/GameConst'
+import '../../framework/misc/Annotations'
+import '../audio/AtomManger'

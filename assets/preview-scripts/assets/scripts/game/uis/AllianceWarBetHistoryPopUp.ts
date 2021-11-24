@@ -1,0 +1,8 @@
+import './gensctips/AllianceWarBetHistoryPopUpGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import './GuildWarBetCell'
+import '../protos/proto-bundles'
+import '../mgrs/LogicMgr'
+import '../logic/AllianceWarLogic'
+import '../basic/Common'

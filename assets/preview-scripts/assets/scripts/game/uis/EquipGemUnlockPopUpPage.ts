@@ -1,0 +1,7 @@
+import './gensctips/EquipGemUnlockPopUpPageGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../mgrs/ResManagerForLua'
+import '../helper/EquipOprHelper'
+import '../mgrs/LangMgr'
+import '../audio/AtomManger'

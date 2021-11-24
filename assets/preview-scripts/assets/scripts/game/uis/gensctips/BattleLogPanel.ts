@@ -1,0 +1,5 @@
+import '../../../framework/misc/Annotations'
+import '../../../framework/uiFramework/BaseGenUI'
+import '../BattlePageReportContent'
+import '../../../framework/components/UIContainerV2'
+import '../../battle/BattleDef'

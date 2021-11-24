@@ -1,0 +1,8 @@
+import './gensctips/ExplorerEliteBuffAttPopUpGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../logic/ExplorerEliteLogic'
+import './ExplorerEliteBuffAttCell'
+import '../mgrs/LogicMgr'
+import '../../framework/cfg/CfgMgr'
+import '../../framework/cfg/ClientConfigEnum'

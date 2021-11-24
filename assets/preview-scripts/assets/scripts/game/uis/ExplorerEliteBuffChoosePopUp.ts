@@ -1,0 +1,8 @@
+import './gensctips/ExplorerEliteBuffChoosePopUpGenUI'
+import '../../framework/misc/Annotations'
+import '../logic/ExplorerEliteLogic'
+import '../../framework/uiFramework/BaseUI'
+import './ExplorerEliteBuffChooseCell'
+import '../protos/proto-bundles'
+import '../mgrs/LogicMgr'
+import '../basic/Events'

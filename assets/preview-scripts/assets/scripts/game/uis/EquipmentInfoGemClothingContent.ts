@@ -1,0 +1,6 @@
+import '../../framework/ui/BaseCell'
+import '../../framework/misc/Annotations'
+import './gensctips/EquipmentInfoGemClothingContentGenCell'
+import '../basic/GameConst'
+import '../logic/ItemLogic'
+import '../mgrs/LogicMgr'

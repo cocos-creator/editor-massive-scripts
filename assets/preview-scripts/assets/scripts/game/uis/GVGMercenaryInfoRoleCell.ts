@@ -1,0 +1,6 @@
+import '../../framework/ui/BaseCell'
+import '../../framework/misc/Annotations'
+import '../../framework/cfg/CfgMgr'
+import './gensctips/GVGMercenaryInfoRoleCellGenCell'
+import '../../framework/cfg/ClientConfigEnum'
+import '../basic/GameConst'

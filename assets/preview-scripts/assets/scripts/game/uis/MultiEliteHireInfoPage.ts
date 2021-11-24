@@ -1,0 +1,8 @@
+import './gensctips/MultiEliteHireInfoPageGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../mgrs/LogicMgr'
+import '../logic/MultiEliteLogic'
+import '../protos/proto-bundles'
+import './MultiEliteFriendInviteContent'
+import '../basic/Common'

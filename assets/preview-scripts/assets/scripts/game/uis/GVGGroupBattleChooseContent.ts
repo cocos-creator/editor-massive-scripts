@@ -1,0 +1,6 @@
+import '../../framework/misc/Annotations'
+import '../../framework/ui/BaseCell'
+import './gensctips/GVGGroupBattleChooseContentGenCell'
+import '../protos/proto-bundles'
+import '../basic/Common'
+import '../logic/GVG/GVGDef'

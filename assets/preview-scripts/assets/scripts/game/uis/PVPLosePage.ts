@@ -1,0 +1,5 @@
+import './gensctips/PVPLosePageGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../battle/BattleDef'
+import './BattleLoseContent'

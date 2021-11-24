@@ -1,0 +1,5 @@
+import './gensctips/BattleActTimePopUpGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../battle/BattleHelper'
+import '../basic/GameConst'

@@ -1,0 +1,5 @@
+import './gensctips/FateGetPageGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../basic/GameConst'
+import './FateGetContent'

@@ -1,0 +1,8 @@
+import '../../framework/ui/BaseCell'
+import '../../framework/misc/Annotations'
+import './gensctips/NewFriendAddCellGenCell'
+import '../logic/Friend/NewFriendLogic'
+import '../mgrs/LogicMgr'
+import '../logic/Chat/ChatLogic'
+import './ChatBottomPage'
+import '../logic/HeadIconLogic'

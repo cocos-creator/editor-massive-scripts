@@ -1,0 +1,8 @@
+import '../../framework/ui/BaseCell'
+import '../../framework/misc/Annotations'
+import '../mgrs/LogicMgr'
+import '../protos/proto-bundles'
+import './gensctips/PersonalChangeBGRoleCellGenCell'
+import '../logic/PlayerLogic'
+import '../logic/RoleLogic'
+import '../basic/GameConst'

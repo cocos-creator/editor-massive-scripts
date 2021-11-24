@@ -1,0 +1,8 @@
+import './gensctips/GuildRankPageGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import './RankAddAllianceItem'
+import '../mgrs/LogicMgr'
+import '../logic/GuildLogic'
+import '../protos/proto-bundles'
+import './ProfessionRankingPage'

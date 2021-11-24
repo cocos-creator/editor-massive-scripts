@@ -1,0 +1,8 @@
+import './gensctips/OfflineBattleAccountPopUp3GenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../logic/EquipLogic'
+import '../logic/StateLogic'
+import '../mgrs/LogicMgr'
+import './OfflineEquipItem'
+import '../audio/AtomManger'

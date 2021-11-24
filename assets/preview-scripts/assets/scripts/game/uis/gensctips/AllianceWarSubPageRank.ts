@@ -1,0 +1,7 @@
+import '../../../framework/event/EventMgr'
+import '../../../framework/uiFramework/BaseGenUI'
+import '../../protos/proto-bundles'
+import '../../mgrs/LogicMgr'
+import '../../logic/AllianceWarLogic'
+import '../../../framework/misc/Annotations'
+import '../AllianceWarSubPageRankListItem'

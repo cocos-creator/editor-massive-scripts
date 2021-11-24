@@ -1,0 +1,6 @@
+import './gensctips/GuildAutoChooseContentGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../logic/GuildLogic'
+import '../mgrs/LogicMgr'
+import '../protos/proto-bundles'

@@ -1,0 +1,6 @@
+import './gensctips/TermsPopUpGenUI'
+import '../../framework/uiFramework/BaseUI'
+import '../../framework/misc/Annotations'
+import '../../framework/storage/LocalStorageMgr'
+import '../basic/LocalStorageConst'
+import '../components/RichTextEvent'

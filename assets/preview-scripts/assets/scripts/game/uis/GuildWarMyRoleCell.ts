@@ -1,0 +1,7 @@
+import '../../framework/ui/BaseCell'
+import '../../framework/misc/Annotations'
+import './gensctips/GuildWarMyRoleCellGenCell'
+import '../mgrs/LogicMgr'
+import '../logic/RoleLogic'
+import '../basic/GameConst'
+import '../basic/Common'

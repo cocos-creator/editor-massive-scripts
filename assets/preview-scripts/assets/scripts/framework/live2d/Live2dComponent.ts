@@ -1,0 +1,6 @@
+import './src/LAppDefine'
+import './src/LAppModel'
+import './src/LAppTextureManager'
+import './CubismSdkForWeb/Framework/math/cubismmatrix44'
+import './src/LAppPlatform'
+import './CubismSdkForWeb/Framework/live2dcubismframework'

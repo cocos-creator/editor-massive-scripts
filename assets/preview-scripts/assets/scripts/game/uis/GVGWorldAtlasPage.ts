@@ -1,0 +1,8 @@
+import '../../framework/uiFramework/BaseUI'
+import './gensctips/GVGWorldAtlasPageGenUI'
+import '../../framework/misc/Annotations'
+import '../mgrs/LogicMgr'
+import '../logic/GVG/GVGLogic'
+import '../protos/proto-bundles'
+import './GVGMainPage'
+import '../basic/GameConst'

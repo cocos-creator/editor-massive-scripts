@@ -1,0 +1,8 @@
+import '../../framework/ui/BaseCell'
+import '../../framework/misc/Annotations'
+import './gensctips/GVGBattleInfoContentGenCell'
+import '../protos/proto-bundles'
+import '../../framework/cfg/CfgMgr'
+import '../basic/GameConst'
+import '../../framework/cfg/ClientConfigEnum'
+import '../basic/GameUtil'
